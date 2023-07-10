@@ -1,0 +1,24 @@
+{
+  "name": "leetcode_private_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RatnakarNGithub/LeetCode_Private_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RatnakarNGithub/LeetCode_Private_Practice/issues"
+  },
+  "homepage": "https://github.com/RatnakarNGithub/LeetCode_Private_Practice#readme",
+  "dependencies": {
+    "@types/node": "^20.3.3",
+    "tslib": "^2.6.0"
+  }
+}
