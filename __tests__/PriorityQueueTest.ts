@@ -1,4 +1,4 @@
-import { PriorityQueue } from "../src/PriorityQueue";
+import { PriorityQueue } from "../src/DataStructure-Helpers/PriorityQueue";
 
 function main() {
     const inputValues = [1, 3, -1, 8, 4, -6, 0, 100];

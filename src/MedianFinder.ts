@@ -1,5 +1,5 @@
 import process from "process";
-import { MaxPriorityQueue, PriorityQueue } from "./PriorityQueue";
+import { MaxPriorityQueue, PriorityQueue } from "./DataStructure-Helpers/PriorityQueue";
 
 export class MedianFinder {
     maxPQ = new MaxPriorityQueue();
